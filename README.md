@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karthickreddy555
+- 👋 Hi, I’m Karthick Reddy
 - 👀 I have passion for Embedded Systems
 - 🌱 I’m currently learning Embedded Linux and Python
 - 📫 How to reach me karthickreddy82@gmail.com
